@@ -6,7 +6,7 @@
 .bannerBgImage{
     height: 100vh;
     background-size: cover;
-    backgroung-image: url("/images/AdobeStock_129164560_Preview.jpeg");
+    backgroung-image: url("AdobeStock_129164560_Preview.jpeg");
     position: relative;
 }
 .bannerText {
